@@ -3,7 +3,7 @@
 This repo is a brief information regarding the BK3266 or F-6988 bluetooth module that's a bit wild out there and their differences
 
 # Variants
-So far there are 2 variants found for this Bluetooth module; v2.3 and v3.1
+So far there are 2 variants found for this Bluetooth module; v2.3 and v3.1, check the [wiki](https://github.com/sarf2k4/BK3266/wiki) section
 
 # Sources
 
